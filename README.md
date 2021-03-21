@@ -30,12 +30,15 @@ You see the rendering "horizon" rippling (zig-zagging) from the center to the ed
 
 There are 912681 particles and more than 40 million pixel movements per frame.
 
+The original version with soundtrack, sadly uploaded with a lower bitrate resulting in visual artifacts:  
+  [https://www.youtube.com/watch?v=FbvfnwMSHno](https://www.youtube.com/watch?v=FbvfnwMSHno)
+
 ## Source code
 
 Grab one of the tarballs at [https://github.com/xyzzy/smile/releases](https://github.com/xyzzy/smile/releases) or checkout the latest code:
 
 ```sh
-        git clone https://github.com/xyzzy/smile.git
+  git clone https://github.com/xyzzy/smile.git
 ```
 
 ## Versioning
