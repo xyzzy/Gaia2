@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-23 17:29:05 Changed: Order items in navbar.
 2021-03-21 18:49:20 Added: Youtube link.
 2021-03-21 18:32:52 Added: Reference to `Gaia2-media` in navbar.
 2021-03-20 13:29:59 Added: `moonwalk` theme.
