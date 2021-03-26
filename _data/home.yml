@@ -2,12 +2,12 @@ navbar_entries:
   - title: "showcase"
     url: https://xyzzy.github.io
 
-  - title: "Gaia2@github"
+  - title: "Gaia2 <div class=\"GitHub-mark\"></div>"
     url: https://github.com/xyzzy/Gaia2
 
 footer_entries:
   - title: "showcase"
     url: https://xyzzy.github.io
 
-  - title: "Gaia2@github"
+  - title: "Gaia2 <div class=\"GitHub-mark\"></div>"
     url: https://github.com/xyzzy/Gaia2
