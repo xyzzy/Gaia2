@@ -38,10 +38,10 @@ The original version with soundtrack, sadly uploaded with a lower bitrate result
 
 ## Source code
 
-Grab one of the tarballs at [https://github.com/xyzzy/smile/releases](https://github.com/xyzzy/smile/releases) or checkout the latest code:
+Grab one of the tarballs at [https://github.com/xyzzy/Gaia2/releases](https://github.com/xyzzy/Gaia2/releases) or checkout the latest code:
 
 ```sh
-  git clone https://github.com/xyzzy/smile.git
+  git clone https://github.com/xyzzy/Gaia2.git
 ```
 
 ## Versioning

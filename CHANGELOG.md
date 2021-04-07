@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-04-07 20:42:00 Fixed: Location source code.
 2021-03-26 18:24:20 Added: Donate button.
 2021-03-23 17:29:05 Changed: Order items in navbar.
 2021-03-21 18:49:20 Added: Youtube link.
